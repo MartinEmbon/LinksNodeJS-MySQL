@@ -8,11 +8,11 @@ Main objetive: save favorite links for each user session.
 
 CSS.  Bootrap. Flash. Handlebars. 
 
-<img src="/public/img/readmelogin.png" width="400">
+<img src="/img/readmelogin.png" width="400">
 
 ## The Back End
 
-`MySQL`.  NoSQL MongoDB for  CRUD operations.<br />
+`MySQL`.  CRUD operations.<br />
 `Session/Passport/Bcrypt`.  Login/Logout page.<br />
 
 ### Thank you and hope you`ll enjoy!
