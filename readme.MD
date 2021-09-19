@@ -8,7 +8,7 @@ Main objetive: save favorite links for each user session.
 
 CSS.  Bootrap. Flash. Handlebars. 
 
-<img src="/img/readme_login.png" width="400">
+<img src="/public/img/readme_login.png" width="400">
 
 ## The Back End
 
