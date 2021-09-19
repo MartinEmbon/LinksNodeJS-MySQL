@@ -8,8 +8,6 @@ Main objetive: save favorite links for each user session.
 
 CSS.  Bootstrap. Flash. Handlebars. 
 
-<img src="/src/public/img/readme_login.png" width="400">
-
 ## The Back End
 
 `MySQL`.  CRUD operations.<br />
